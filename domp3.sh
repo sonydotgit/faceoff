@@ -17,4 +17,4 @@ do
 
 done < links.txt
 
-notify-send "Finished Downloading Songs" "$count songs downloaded"
+notify-send "Finished Downloading" "$count song(s) downloaded"
